@@ -1,0 +1,171 @@
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\bin\Debug\itextsharp.dll
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\bin\Debug\itextsharp.xtra.dll
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\bin\Debug\MySql.Data.dll
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\bin\Debug\itextsharp.xml
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\FMS.csprojResolveAssemblyReference.cache
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Adddec.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Affichpaiemnt.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutachat.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutclient.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutfacture2.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutfacture.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AjoutFournisseur.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutpersonnel.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutuser.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Dosclient.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutfacture4.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Moddec.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modifachat.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modifclient.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modiffact.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modiffact3.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modiffact2.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modiffournisseur.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modifpersonnel.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modifuser.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Paiementperso.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Previewachat.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Suppachat.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Suppclient.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Suppfacture.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Suppfournisseur.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Suppperso.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Suppuser.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl0.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl1.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl2.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl3.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl4.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl5.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl6.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl7.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.XtraReport1.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\FMS.csproj.GenerateResource.Cache
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.licenses
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.manifest
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.application
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl8.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutdevis.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutdevis2.resources
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\bin\Debug\MySqlBackup.dll
+C:\Users\Hamdi\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutdevis3.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\FMS.csprojAssemblyReference.cache
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Adddec.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Affichpaiemnt.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutachat.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutclient.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutdevis.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutdevis2.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutdevis3.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutfacture2.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutfacture.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AjoutFournisseur.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutpersonnel.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutuser.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Dosclient.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutfacture4.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Moddec.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modifachat.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modifclient.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modiffact.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modiffact3.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modiffact2.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modiffournisseur.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modifpersonnel.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modifuser.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Paiementperso.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Previewachat.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Suppachat.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Suppclient.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Suppfacture.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Suppfournisseur.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Suppperso.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Suppuser.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl0.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl1.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl2.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl3.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl4.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl5.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl6.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl7.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl8.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.XtraReport1.resources
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\FMS.csproj.GenerateResource.cache
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.licenses
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\FMS.csprojResolveAssemblyReference.cache
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Adddec.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Affichpaiemnt.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutachat.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutclient.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutdevis.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutdevis2.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutdevis3.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutfacture2.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutfacture.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AjoutFournisseur.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutpersonnel.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutuser.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Dosclient.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ajoutfacture4.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Moddec.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modifachat.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modifclient.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modiffact.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modiffact3.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modiffact2.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modiffournisseur.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modifpersonnel.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Modifuser.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Paiementperso.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Previewachat.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Suppachat.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Suppclient.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Suppfacture.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Suppfournisseur.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Suppperso.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Suppuser.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl0.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl1.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl2.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl3.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl4.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl5.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl6.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl7.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl8.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.XtraReport1.resources
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\FMS.csproj.GenerateResource.Cache
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.licenses
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\bin\Debug\itextsharp.dll
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\bin\Debug\itextsharp.pdfa.dll
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\bin\Debug\itextsharp.xtra.dll
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\bin\Debug\itextsharp.xml
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.manifest
+E:\Pc A7mer\WindowsFormsApplication3 - Copie (3) - Copie\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.application
