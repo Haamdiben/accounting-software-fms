@@ -6,5 +6,5 @@ MySQL has been used for user login , clients informations , statistics, Bills et
 <h5> And the app will work perfectly </h5> 
 
 
-After running the app with visual studio, use the username : admin and the password : admin to get the main bord with all the rights
+After running the app with visual studio, use "admin" as a username and password to get the main bord with all the rights
 
